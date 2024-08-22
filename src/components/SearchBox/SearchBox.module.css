@@ -1,12 +1,11 @@
 .findGroup {
-    display: flex;
-    flex-direction: column;
-    max-width: 300px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .input {
-    height: 30px;
+  height: 30px;
 }
-
